@@ -1,0 +1,6 @@
+# .github/recent-activity.config.yml
+activity:
+  enabled: true
+  repositories:
+    - backelkin/backelkin
+    - DataStackForge/.github
