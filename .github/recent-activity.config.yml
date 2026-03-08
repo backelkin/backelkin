@@ -1,6 +1,4 @@
-# .github/recent-activity.config.yml
-activity:
-  enabled: true
-  repositories:
-    - backelkin/backelkin
-    - DataStackForge/.github
+settings:
+  readme: ./README.md
+  commit_msg: "⚡ Update README with recent activity"
+  max_lines: 5
