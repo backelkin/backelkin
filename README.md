@@ -80,6 +80,10 @@ Ingeniero de Datos e IA con +3 años de experiencia especializado en **Microsoft
 </div>
 
 ---
+### ⚡ Actividad reciente
+<!--START_SECTION:recent_activity-->
+<!--END_SECTION:recent_activity-->
+---
 
 ### 🤝 ¿Interesado en colaborar?
 
